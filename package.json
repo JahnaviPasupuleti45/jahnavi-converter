@@ -1,0 +1,22 @@
+{
+  "name": "jahnavi-converter",
+  "version": "1.0.0",
+  "description": "A workshop on devOps",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JahnaviPasupuleti45/jahnavi-converter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JahnaviPasupuleti45/jahnavi-converter/issues"
+  },
+  "homepage": "https://github.com/JahnaviPasupuleti45/jahnavi-converter#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
